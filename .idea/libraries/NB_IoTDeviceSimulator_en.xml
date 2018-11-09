@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NB-IoTDeviceSimulator_en">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NB-IoTDeviceSimulator_en.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
